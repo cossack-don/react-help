@@ -36,6 +36,7 @@
 погуглить - img: require('../assets/img/products/product-4.png'),
  - https://app.tocode.ru/courses/react-pro/react-shop-1/443/
  - link href=`/$item.alias` - как item/id во вью
+ - изучать react - routers
 ## module #11
 -посмотрел да/нет
 
