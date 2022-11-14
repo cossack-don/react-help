@@ -24,14 +24,14 @@
 ## module #8
 -посмотрел да/нет
 
-## module #9
+## module #9 +
 -посмотрел да/нет
 погуглить про [...items, item] - spread js
 погуглить как обрабатывать формы и инпуты на реакте
 погуглить тернарный оператор в реакте
 погуглить как в одном файле tsx можно помещать 2 компонента react и соеденять их
 
-## module #10
+## module #10 +
 -посмотрел да/нетэ
 погуглить - img: require('../assets/img/products/product-4.png'),
  - https://app.tocode.ru/courses/react-pro/react-shop-1/443/
@@ -43,3 +43,7 @@
 
 ## module #12
 -посмотрел да/нет
+- yarn - гуглить
+- про жизненные циклы - потом перечитать и получше конспектировать - https://app.tocode.ru/courses/react-pro/react-feature/420/
+- webpack - см 
+- про избавление от путей ../../ - https://app.tocode.ru/courses/react-pro/react-feature/436/
