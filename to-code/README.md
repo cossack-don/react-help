@@ -32,8 +32,9 @@
 погуглить как в одном файле tsx можно помещать 2 компонента react и соеденять их
 
 ## module #10
--посмотрел да/нет
-
+-посмотрел да/нетэ
+погуглить - img: require('../assets/img/products/product-4.png'),
+ - https://app.tocode.ru/courses/react-pro/react-shop-1/443/
 ## module #11
 -посмотрел да/нет
 
