@@ -37,6 +37,7 @@
  - https://app.tocode.ru/courses/react-pro/react-shop-1/443/
  - link href=`/$item.alias` - как item/id во вью
  - изучать react - routers
+ - https://bundlephobia.com/  analiz
 ## module #11
 -посмотрел да/нет
 
