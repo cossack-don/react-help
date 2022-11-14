@@ -35,6 +35,7 @@
 -посмотрел да/нетэ
 погуглить - img: require('../assets/img/products/product-4.png'),
  - https://app.tocode.ru/courses/react-pro/react-shop-1/443/
+ - link href=`/$item.alias` - как item/id во вью
 ## module #11
 -посмотрел да/нет
 
