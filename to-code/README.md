@@ -1,27 +1,27 @@
 # to code kurs
 
-## module #1
+## module #1 -
 -посмотрел да/нет
 
-## module #2
+## module #2 -
 -посмотрел да/нет
 
-## module #3
+## module #3 -
 -посмотрел да/нет
 
-## module #4
+## module #4 -
 -посмотрел да/нет
 
-## module #5
+## module #5 -
 -посмотрел да/нет
 
-## module #6
+## module #6 -
 -посмотрел да/нет
 
-## module #7
+## module #7 -
 -посмотрел да/нет
 
-## module #8
+## module #8 +
 -посмотрел да/нет
 
 ## module #9 +
@@ -38,7 +38,8 @@
  - link href=`/$item.alias` - как item/id во вью
  - изучать react - routers
  - https://bundlephobia.com/  analiz
-## module #11
+ 
+## module #11 -
 -посмотрел да/нет
 
 ## module #12
