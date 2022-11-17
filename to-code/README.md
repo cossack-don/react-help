@@ -43,6 +43,8 @@
 -посмотрел да/нет
 — почитать про exports js 
 — что такое мемозизация 
+- о хуке useMemo https://app.tocode.ru/courses/react-pro/react-shop-2/463/
+- 
 
 ## module #12
 -посмотрел да/нет
