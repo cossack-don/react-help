@@ -39,8 +39,8 @@
  - изучать react - routers
  - https://bundlephobia.com/  analiz
  
-## module #11 -
--посмотрел да/нет
+## module #11 +
+-посмотрел
 — почитать про exports js 
 — что такое мемозизация 
 - о хуке useMemo https://app.tocode.ru/courses/react-pro/react-shop-2/463/
