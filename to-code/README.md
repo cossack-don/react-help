@@ -5,6 +5,8 @@
 
 ## module #2 -
 -посмотрел да/нет
+посмотреть что лежит в реакт и реакт дом , какие функции . I
+
 
 ## module #3 -
 -посмотрел да/нет
@@ -37,7 +39,7 @@
 -посмотрел
 погуглить - img: require('../assets/img/products/product-4.png'),
  - https://app.tocode.ru/courses/react-pro/react-shop-1/443/
- - link href=`/$item.alias` - как item/id во вью
+ - link href=`/$item.alias` - как item/id во вью.
  - изучать react - routers
  - https://bundlephobia.com/  analiz
  
