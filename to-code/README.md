@@ -20,6 +20,8 @@
 ## module #6 -
 -посмотрел да/нет
 — посмотреть про деструкторизацию джс
+— гит игра https://learngitbranching.js.org/?locale=ru_RU
+
 
 ## module #7 +
 -посмотрел
