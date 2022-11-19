@@ -14,6 +14,7 @@ I
 ## module #4 -
 -посмотрел да нет
 — посмотреть про геттер и сеттер натив джс
+— посмотреть получше https://app.tocode.ru/courses/react-pro/react-hooks/387/
 
 ## module #5 +
 -посмотрел
