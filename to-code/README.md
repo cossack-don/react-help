@@ -10,9 +10,9 @@
 
 ## module #3 -
 -посмотрел да/нет
-I
-## module #4 -
--посмотрел да нет
+
+## module #4 +
+-посмотрел
 — посмотреть про геттер и сеттер натив джс
 — посмотреть получше https://app.tocode.ru/courses/react-pro/react-hooks/387/
 — про use callback https://habr.com/ru/post/529950/
