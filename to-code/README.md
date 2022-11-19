@@ -15,6 +15,7 @@ I
 -посмотрел да нет
 — посмотреть про геттер и сеттер натив джс
 — посмотреть получше https://app.tocode.ru/courses/react-pro/react-hooks/387/
+— про use callback https://habr.com/ru/post/529950/
 
 ## module #5 +
 -посмотрел
