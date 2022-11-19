@@ -62,3 +62,6 @@
 - про жизненные циклы - потом перечитать и получше конспектировать - https://app.tocode.ru/courses/react-pro/react-feature/420/
 - webpack - см 
 - про избавление от путей ../../ - https://app.tocode.ru/courses/react-pro/react-feature/436/
+
+
+## dop — модуль про мобХ смотреть 
