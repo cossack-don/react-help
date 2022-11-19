@@ -8,15 +8,15 @@
 посмотреть что лежит в реакт и реакт дом , какие функции 
 
 
-## module #3 -
--посмотрел да/нет
+## module #3 +
+-посмотрел
 
 ## module #4 +
 -посмотрел
 — посмотреть про геттер и сеттер натив джс
 — посмотреть получше https://app.tocode.ru/courses/react-pro/react-hooks/387/
-— про use callback https://habr.com/ru/post/529950/
-
+— про use callback https://habr.com/ru/post/529950/ 
+ r
 ## module #5 +
 -посмотрел
 
@@ -64,4 +64,7 @@
 - про избавление от путей ../../ - https://app.tocode.ru/courses/react-pro/react-feature/436/
 
 
-## dop — модуль про мобХ смотреть 
+## dop — модуль про мобХ смотреть
+посмотреть про мобХ что это кратко
+
+
