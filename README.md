@@ -80,3 +80,15 @@ native js
 
 
 - cuatomHook react
+
+
+Core Vanilla JavaScript
+
+- Promise
+- this
+- call, apply, bind
+- window
+- async, await
+- fetch
+- get,set
+- exports, imports
