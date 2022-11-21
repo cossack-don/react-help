@@ -64,24 +64,25 @@ native js
 Хуки (сделать подробное описание, промеры + код пен и возможно сравнение со вью
 Посмотреть, может каких то хуков не хватает
 
-- useState
+- useState ( слежка-реактивности за данными, get и set)
 
-- useEffect
+- useEffect ( можно использовать как wathcer, и хук onMaunt)
 
-- useCallback
+- useCallback ( при создание компонента по новой, функция передается по ссылке, а не создается заново)
 
-- useMemo
+- useMemo ( кеширует и вычеслительные действия, например computed)
 
-- useRef
+- useRef ( вместо querySelector)
 
-- useReducer
+- useReducer ( мини redux, состояние приложения)
 
-- useContext
+- useContext ( provide, inject - можно с родителя передать в глубь необходимые данные без лишних props)
 
-- useLayoutEffect
+- useLayoutEffect ( срабатывает до монтирования в дом)
 
+- useImperativeHande - необходимо использовать ref + forwardRef и можно получить элемент в другом компоненте и обновлять его из другого компонента
 
-- cuatomHook react
+- cuatomHook react ( можно создать свои хуки используя, встроенные и так же можно создавать хуки и в них использовать свои, что создал) - вынесение логки
 
 
 Core Vanilla JavaScript
