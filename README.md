@@ -1,7 +1,10 @@
 # react-help будущий справочник по часто используемым методам и подходам
 
 Дочитать документацию реакт с - https://ru.reactjs.org/docs/accessibility.html
-
+Учебники:
+1. https://metanit.com/web/react/ - Metanit
+2. https://ru.reactjs.org/ - ru React Docs
+3. https://beta.reactjs.org/ - en React Docs new - function structure
 
 Структура: 
 Оглавление
