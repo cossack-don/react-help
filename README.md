@@ -1,5 +1,12 @@
 # react-help будущий справочник по часто используемым методам и подходам
 
+реакт дока — осталось дочитать
+— https://ru.reactjs.org/docs/hooks-reference.html
+— https://ru.reactjs.org/docs/implementation-notes.html
+— https://ru.reactjs.org/docs/design-principles.html
+— https://ru.reactjs.org/docs/faq-ajax.html  и весь раздел FAQ
+
+
 ## Оглавление
 
 ## React
