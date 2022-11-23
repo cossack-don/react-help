@@ -155,3 +155,18 @@ https://formik.org/  - для работы с формами - наподоби�
 - императивный подход
 - мемомизация
 
+## Core stack React
+
+- React 16.8+
+- Redux or Nano store
+- React Routers
+- Saga
+- Thunk
+- TypeScript
+- JavaScript ES6+
+- Webpack
+- Unit tests (Jest, Testing Library)
+- Паттерны
+- Алгоритмы
+- Архитектура
+- SOLID, KISS, DRY, ООП
