@@ -6,6 +6,7 @@
 — https://ru.reactjs.org/docs/design-principles.html
 — https://ru.reactjs.org/docs/faq-ajax.html  и весь раздел FAQ
 
+Задачники Code Wars / Leet Code
 
 ## Оглавление
 
