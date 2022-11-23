@@ -9,13 +9,13 @@
 Задачники Code Wars / Leet Code
 
 ## Оглавление
-[sabaka.net](https://github.com/cossack-don/react-helper#react)
+[React](#React)
 
 
 ## Определения
 
 
-## React <a href="react">33</a>
+## React
 Хуки (сделать подробное описание, промеры + код пен и возможно сравнение со вью
 Посмотреть, может каких то хуков не хватает
 
