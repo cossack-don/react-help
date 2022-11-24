@@ -13,11 +13,14 @@
     
      C{React Senior Developer}
     C -->|React| D[React_routers] --> Redux --> Saga --> Thunk --> Next
-    C -->|React packages| X[Hook_forms] --> Ant_Designer_UI --> Axios
-    C -->|Core| E[JavaScript] --> TypeScript --> Webpack --> Unit_Tests --> Git
+    C -->|React packages| X[Hook_forms] --> Ant_Designer_UI --> Axios --> Styled_components
+    C -->|Core| E[JavaScript] --> TypeScript --> Webpack --> Unit_Tests --> Git_GitFlow --> Адаптивная_верстка --> Code_review --> Figma
     C -->|Extra| G[Английский] --> Алгоритмы --> Архитектура --> Паттерны/Антипаттерны --> SOLID --> KISS --> DRY --> ООП
-    C -->|Ken in WEB| W[MobX]
-    C -->|Ken in All| Z[CI/CD] --> Backend --> Database
+    C -->|Ken in WEB| W[MobX] --> Websocket --> GraphQL
+    C -->|Ken in All| Z[CI/CD] --> Backend_GO_PHP_Node.js --> Database_PostgreSQL_MySQL --> Docker
+    C -->|Experience| J[написание_своих_пакетов] --> написание_своей_UI_LIB
+    C -->|Manager| Q[Jira] --> Scram/Kanban --> Confluence
+    
 ```
 
 Задачники Code Wars / Leet Code
