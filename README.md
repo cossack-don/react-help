@@ -14,7 +14,7 @@
      C{React Senior Developer}
     C -->|React| D[React_routers] --> Redux --> Saga --> Thunk --> Next
     C -->|React packages| X[Hook_forms] --> Ant_Designer_UI --> Axios
-    C -->|Core| E[JavaScript] --> TypeScript --> Webpack --> Unit_Tests
+    C -->|Core| E[JavaScript] --> TypeScript --> Webpack --> Unit_Tests --> Git
     C -->|Extra| G[Английский] --> Алгоритмы --> Архитектура --> Паттерны/Антипаттерны --> SOLID --> KISS --> DRY --> ООП
     C -->|Ken in WEB| W[MobX]
     C -->|Ken in All| Z[CI/CD] --> Backend --> Database
