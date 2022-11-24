@@ -6,6 +6,18 @@
 — https://ru.reactjs.org/docs/design-principles.html
 — https://ru.reactjs.org/docs/faq-ajax.html  и весь раздел FAQ
 
+```mermaid
+
+   flowchart LR
+    
+     C{React Senior Developer}
+    C -->|React| D[React_routers] --> Redux --> Saga --> Thunk --> Next --> test
+    C -->|React packages| X[Hook_forms] --> Ant_Designer_UI
+    C -->|Core| E[JavaScript] --> TypeScript --> Webpack --> Unit_Tests
+    C -->|Extra| G[Английский] --> Алгоритмы --> Архитектура --> Паттерны --> SOLID_KISS_DRY_OOP
+    C -->|ken| W[MobX] --> Test
+```
+
 Задачники Code Wars / Leet Code
 
 ## Оглавление
@@ -128,20 +140,3 @@ https://formik.org/  - для работы с формами - наподоби�
 
 
 
-
-
-## Core stack React
-
-- React 16.8+
-- Redux or Nano store
-- React Routers
-- Saga
-- Thunk
-- TypeScript
-- JavaScript ES6+
-- Webpack
-- Unit tests (Jest, Testing Library)
-- Паттерны
-- Алгоритмы
-- Архитектура
-- SOLID, KISS, DRY, ООП
