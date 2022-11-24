@@ -11,8 +11,8 @@
    flowchart LR
     
      C{React Senior Developer}
-    C -->|React| D[React_routers] --> Redux --> Saga --> Thunk --> Next --> test
-    C -->|React packages| X[Hook_forms] --> Ant_Designer_UI
+    C -->|React| D[React_routers] --> Redux --> Saga --> Thunk --> Next
+    C -->|React packages| X[Hook_forms] --> Ant_Designer_UI --> Axios
     C -->|Core| E[JavaScript] --> TypeScript --> Webpack --> Unit_Tests
     C -->|Extra| G[Английский] --> Алгоритмы --> Архитектура --> Паттерны --> SOLID_KISS_DRY_OOP
     C -->|ken| W[MobX] --> Test
