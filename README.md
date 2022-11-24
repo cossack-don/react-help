@@ -4,7 +4,7 @@
 — https://ru.reactjs.org/docs/hooks-reference.html </br>
 — https://ru.reactjs.org/docs/implementation-notes.html </br>
 — https://ru.reactjs.org/docs/design-principles.html </br>
-— https://ru.reactjs.org/docs/faq-ajax.html  и весь раздел FAQ
+- остальное дочитал
 
 ```mermaid
 
