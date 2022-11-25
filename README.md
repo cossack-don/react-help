@@ -1,9 +1,6 @@
 # React-helper
+
 ![image-react](react.jpg)
-
-
-реакт дока — осталось дочитать
-— https://ru.reactjs.org/docs/hooks-reference.html </br>
 
 # Схема роста
 
@@ -13,7 +10,7 @@
     
      C{React Senior Developer}
     C -->|React| D[React_routers] --> Redux --> Saga --> Thunk --> Next
-    C -->|React packages| X[Hook_forms] --> Ant_Designer_UI --> Axios --> Styled_components
+    C -->|React packages| X[Hook_forms] --> Ant_Designer_UI --> Axios --> Styled_components --> react_i18n --> io_ts
     C -->|Core| E[JavaScript] --> TypeScript --> Webpack --> Unit_Tests --> Git_GitFlow --> Адаптивная_верстка --> Code_review --> Figma
     C -->|Extra| G[Английский] --> Алгоритмы --> Архитектура --> Паттерны/Антипаттерны --> SOLID --> KISS --> DRY --> ООП
     C -->|Ken in WEB| W[MobX] --> Websocket --> GraphQL
