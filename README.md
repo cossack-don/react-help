@@ -91,7 +91,7 @@
 ## Vanilla JS
 
 - Event Loop
-- что такое callback
+- что такое callback - https://htmlacademy.ru/blog/js/callback-functions
 - promise
 - get,set
 - рекурсия
