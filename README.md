@@ -92,6 +92,7 @@
 ## Vanilla JS
 
 - Event Loop
+- Функции высшего порядка - ?
 - что такое callback - https://htmlacademy.ru/blog/js/callback-functions
 - promise
 - get,set
