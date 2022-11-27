@@ -157,8 +157,8 @@ f(...a);
 
 https://formik.org/  - для работы с формами - наподобие react hook forms
 
-
-чтобы получать стейт актуальный обновленный - setData((data) => data+2)
+update useState
+чтобы получать стейт актуальный обновленный - setData((data) => data+2) - функция должна быть чистая, без сайдэффектов
 
 Задачники Code Wars / Leet Code
 
