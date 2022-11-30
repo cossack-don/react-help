@@ -186,3 +186,7 @@ update useState
 - style - Изменения кодстайла (табы, отступы, точки, запяты и тд.)
 - test - Изменения касающиеся тестов
 - chore - Все, что не подходит по типы выше
+
+ Типизация пропс реакт
+const ModalAboutRecords = ({ updateStateModal }: { updateStateModal: (payload: boolean) => any }) => {
+  const ref = useRef<HTMLMttModalElement | null>(null);  return (
