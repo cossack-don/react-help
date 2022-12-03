@@ -190,3 +190,6 @@ update useState
  Типизация пропс реакт
 const ModalAboutRecords = ({ updateStateModal }: { updateStateModal: (payload: boolean) => any }) => {
   const ref = useRef<HTMLMttModalElement | null>(null);  return (
+  
+  
+  мини курс по реакту — https://youtube.com/@dmitrii_gerasimov
