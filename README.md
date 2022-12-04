@@ -187,9 +187,26 @@ update useState
 - test - Изменения касающиеся тестов
 - chore - Все, что не подходит по типы выше
 
- Типизация пропс реакт
-const ModalAboutRecords = ({ updateStateModal }: { updateStateModal: (payload: boolean) => any }) => {
-  const ref = useRef<HTMLMttModalElement | null>(null);  return (
+ Типизация пропс реакт 
+ 
+ example 1
+const ModalAboutRecords = ({ updateStateModal }: { updateStateModal: (payload: boolean) => void }) 
+
+example 2 
+
+interface IProps {
+   updateStateModal: (payload: boolean) => void 
+}
+
+const ModalAboutRecords = ({ updateStateModal }: Props) 
+  
+мини курс по реакту — https://youtube.com/@dmitrii_gerasimov
   
   
-  мини курс по реакту — https://youtube.com/@dmitrii_gerasimov
+2 примера использования useContext + createContext in React with hooks
+
+example 1 
+https://stackblitz.com/edit/react-ts-sty247?file=App.tsx
+
+example 2
+https://stackblitz.com/edit/react-ts-sybkwh?file=App.tsx
